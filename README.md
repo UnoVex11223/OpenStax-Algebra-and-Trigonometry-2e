@@ -1,6 +1,6 @@
 # 📘 OpenStax Algebra and Trigonometry 2e – Review
 
-This repository contains my **problem sets and notes** while reviewing the *OpenStax Algebra and Trigonometry 2e* textbook.  
+This repository contains my **problem sets** while reviewing the *OpenStax Algebra and Trigonometry 2e* textbook.  
 It serves as a **refresher of the key concepts** that are fundamental for self-studying **Calculus I**.
 
 ---
